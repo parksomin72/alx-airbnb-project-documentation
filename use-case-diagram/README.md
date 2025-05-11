@@ -6,6 +6,7 @@ This directory contains the use case diagram for the Airbnb Clone Backend projec
 
 [**Note:** The actual use case diagram (`use_case.png`) is located in this directory. Please open the image file to view the visual representation.]
 
+
 This diagram illustrates how the following key actors interact with the main functionalities of the Airbnb Clone Backend:
 
 ## Key Actors
