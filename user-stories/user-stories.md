@@ -23,4 +23,4 @@ As a Guest, I want to be able to write a review for a property I have stayed in,
 
 These user stories serve as a foundation for developing the backend functionalities of the Airbnb Clone, ensuring that both guests and hosts have a seamless and efficient experience on the platform.
 
-![Use User Stories](user-stories/User_Stories.png)
+![Use User Stories](User_Stories.png)
