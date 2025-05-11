@@ -11,4 +11,3 @@ The user stories capture the following core interactions:
 * **As a Guest, I want to be able to book a property for specific dates and make a payment, so that I can secure my reservation.**
 * **As a Host, I want to be able to manage my bookings, including accepting or declining requests, so that I can effectively manage my property's availability.**
 * **As a Guest, I want to be able to write a review for a property I have stayed in, so that I can share my experience with other potential guests.**
-
